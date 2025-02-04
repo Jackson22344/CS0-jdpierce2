@@ -13,10 +13,10 @@ ________________________________________________________________________________
 | Name | Value |
 | --- | --- |
 | Name: | Jackson Pierce  |
-| Description: | FIXME |
-| Due Date: | FIXME |
-| Status: | FIXME (In Progress, Finished, Not Started, etc...) |
-| Location: | <provide github link to assignment> |
+| Description: | ASCII ART |
+| Due Date: | Feb 3 |
+| Status: | Finished  |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/main.py |
 | Notes: | In Progress|
 _______________________________________________________________________________________________________________
 # Labs
