@@ -9,7 +9,7 @@
 | Repository | https://github.com/Jackson22344/CS0-jdpierce2 |
 _______________________________________________________________________________________________________________
 # Assignments
-## Homework #1
+## Lab #0
 | Name | Value |
 | --- | --- |
 | Name: | Jackson Pierce  |
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 | Due Date: | Feb 3 |
 | Status: | Finished  |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/main.py |
-| Notes: | In Progress|
+| Notes: | |
 _______________________________________________________________________________________________________________
 # Labs
 ## Lab #1
