@@ -27,5 +27,5 @@ ________________________________________________________________________________
 | Description: | ASCII 2 |
 | Due Date: | 2/5/25 |
 | Status: | Finished |
-| Location: | <provide github link to assignment once you've pushed it> |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/ascii%202/main2.py |
 | Notes: | |
