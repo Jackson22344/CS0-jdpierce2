@@ -23,9 +23,9 @@ ________________________________________________________________________________
 ## Lab #2
 | Name | Value |
 | --- | --- |
-| Name: | FIXME |
-| Description: | FIXME |
-| Due Date: | FIXME |
-| Status: | FIXME (In Progress, Finished, Not Started, etc...) |
+| Name: | Jackson Pierce |
+| Description: | ASCII 2 |
+| Due Date: | 2/5/25 |
+| Status: | Finished |
 | Location: | <provide github link to assignment once you've pushed it> |
-| Notes: | FIXME |
+| Notes: | |
