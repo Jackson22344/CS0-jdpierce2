@@ -32,10 +32,10 @@ print(line1)
 line2: str = " / @ @ \   * ASCII Lab           * (='.'=)\n"
 print(line2)
 
-line3: str = "( > 0 < )  * Jackson Pierce      *  ( \" )_( \" )\n"
+line3: str = "( > 0 < )  * Jackson Pierce   *  ( \" )_( \" )\n"
 print(line3)
 
-line4: str ="  >>x<<   * 2025 *\n"
+line4: str ="  >>x<<    * 2025 *\n"
 print(line4)
 
 line5: str = "  / O \  *   CSCI 111 *\n"

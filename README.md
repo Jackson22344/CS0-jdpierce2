@@ -28,7 +28,7 @@ ________________________________________________________________________________
 | Due Date: | Feb 3 |
 | Status: | Finished  |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/main.py |
-| Notes: | |
+| Notes: | ![alt text](<Screenshot (114).png>) |
 ## Lab #2
 | Name | Value |
 | --- | --- |
@@ -37,4 +37,4 @@ ________________________________________________________________________________
 | Due Date: | 2/5/25 |
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/ascii%202/main2.py |
-| Notes: | |
+| Notes: | ![alt text](<Screenshot (112).png>) |
