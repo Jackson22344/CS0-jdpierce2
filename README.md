@@ -9,6 +9,17 @@
 | Repository | https://github.com/Jackson22344/CS0-jdpierce2 |
 _______________________________________________________________________________________________________________
 # Assignments
+## Homework #1
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce  |
+| Description: | FIXME |
+| Due Date: | FIXME |
+| Status: | FIXME  |
+| Location: | FIXME |
+| Notes: | |
+_______________________________________________________________________________________________________________
+# Labs
 ## Lab #1
 | Name | Value |
 | --- | --- |
@@ -18,8 +29,6 @@ ________________________________________________________________________________
 | Status: | Finished  |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/main.py |
 | Notes: | |
-_______________________________________________________________________________________________________________
-# Labs
 ## Lab #2
 | Name | Value |
 | --- | --- |
