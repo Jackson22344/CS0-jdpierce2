@@ -38,3 +38,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/ascii%202/main2.py |
 | Notes: | ![alt text](<Screenshot (112).png>) |
+## Lab #2a
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Add Two Numbers |
+| Due Date: | 2/20/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: |  |
