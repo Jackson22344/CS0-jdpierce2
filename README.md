@@ -54,5 +54,5 @@ ________________________________________________________________________________
 | Description: | Circle Lab |
 | Due Date: | 2/20/25 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%202b/circle.py |
 | Notes: | ![alt text](<Screenshot (119).png>)   Also sorry for submitting these so late I really thought I commited and pushed them. |
