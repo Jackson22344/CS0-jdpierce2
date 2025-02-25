@@ -2,7 +2,7 @@
 Math and Variables Lab
 By: Jackson Pierce
 CSCI 110 Lab
-Date: 2/25/2025
+Date: 2/21/2025
 
 Read and solve: Add Two Numbers - https://open.kattis.com/problems/addtwonumbers 
 
