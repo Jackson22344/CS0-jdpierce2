@@ -63,5 +63,5 @@ ________________________________________________________________________________
 | Description: | bijele |
 | Due Date: | 2/25/25 |
 | Status: | Finished |
-| Location: |  |
-| Notes: | ![alt text](<Screenshot (121).png>) |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%203b/bijele.py |
+| Notes: | ![alt text](<Screenshot (121).png>) I thought I pushed this with the others in class yesterday |
