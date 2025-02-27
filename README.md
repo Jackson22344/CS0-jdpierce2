@@ -56,3 +56,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%202b/circle.py |
 | Notes: | ![alt text](<Screenshot (119).png>)   Also sorry for submitting these so late I really thought I commited and pushed them. |
+## Lab #3b
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | bijele |
+| Due Date: | 2/25/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (121).png>) |
