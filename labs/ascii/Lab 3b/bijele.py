@@ -37,6 +37,6 @@ dif6 = req_pawns - pawns
 
 #FIXMEs 5,6: make dif5 and dif6 #fixed#
 
-#FIXME 7: call solution function passing proper parameters
+#FIXME 7: call solution function passing proper parameters #fixed#
 solution(dif1, dif2, dif3, dif4, dif5, dif6)
 
