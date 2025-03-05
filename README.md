@@ -81,5 +81,5 @@ ________________________________________________________________________________
 | Description: | Conditional Statements |
 | Due Date: | 3/4/25 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%204b/conditionals.py |
 | Notes: | ![alt text](<Screenshot (123).png>) |
