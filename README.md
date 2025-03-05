@@ -72,5 +72,5 @@ ________________________________________________________________________________
 | Description: | conditionals |
 | Due Date: | 3/4/25 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/tree/main/labs/ascii/Lab%204a |
 | Notes: | ![alt text](<Screenshot (122).png>) |
