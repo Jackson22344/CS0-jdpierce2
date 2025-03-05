@@ -69,8 +69,17 @@ ________________________________________________________________________________
 | Name | Value |
 | --- | --- |
 | Name: | Jackson Pierce |
-| Description: | conditionals |
+| Description: | Conditionals |
 | Due Date: | 3/4/25 |
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/tree/main/labs/ascii/Lab%204a |
 | Notes: | ![alt text](<Screenshot (122).png>) |
+## Lab #4b
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Conditional Statements |
+| Due Date: | 3/4/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (123).png>) |
