@@ -65,3 +65,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%203b/bijele.py |
 | Notes: | ![alt text](<Screenshot (121).png>) I thought I pushed this with the others in class yesterday |
+## Lab #4a
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | conditionals |
+| Due Date: | 3/4/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (122).png>) |
