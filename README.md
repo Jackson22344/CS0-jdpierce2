@@ -90,5 +90,5 @@ ________________________________________________________________________________
 | Description: | Playing with Loops |
 | Due Date: | 3/11/25 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%205/loops.py |
 | Notes: | ![alt text](<Screenshot (126).png>) |
