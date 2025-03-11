@@ -92,3 +92,13 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%205/loops.py |
 | Notes: | ![alt text](<Screenshot (126).png>) |
+## Lab #6a
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Hissing Microphone |
+| Due Date: | 3/14/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (128).png>) |
+         | ![alt text](<Screenshot (129).png>) |
