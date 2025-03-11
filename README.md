@@ -83,3 +83,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%204b/conditionals.py |
 | Notes: | ![alt text](<Screenshot (123).png>) |
+## Lab #5
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Playing with Loops |
+| Due Date: | 3/11/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (126).png>) |
