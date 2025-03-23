@@ -101,3 +101,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%206a/hiss.py |
 | Notes: | ![alt text](<Screenshot (128).png>)![alt text](<Screenshot (129).png>) |
+## Lab #6b
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Simonsays |
+| Due Date: | 3/14/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (130)-3.png>) |
