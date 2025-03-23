@@ -108,5 +108,5 @@ ________________________________________________________________________________
 | Description: | Simonsays |
 | Due Date: | 3/14/25 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%206b/simonsays.py |
 | Notes: | ![alt text](<Screenshot (130)-3.png>) |
