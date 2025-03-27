@@ -119,3 +119,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%207a/sort.py |
 | Notes: | ![alt text](<Screenshot (132).png>) |
+## Lab #7b
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Pet |
+| Due Date: | 4/3/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (133).png>)  ![alt text](<Screenshot (134).png>)  |
