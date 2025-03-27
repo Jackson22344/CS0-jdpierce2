@@ -117,5 +117,5 @@ ________________________________________________________________________________
 | Description: | Sorting Numbers |
 | Due Date: | 4/3/25 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%207a/sort.py |
 | Notes: | ![alt text](<Screenshot (132).png>) |
