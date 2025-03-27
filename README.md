@@ -110,3 +110,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%206b/simonsays.py |
 | Notes: | ![alt text](<Screenshot (130)-3.png>) |
+## Lab #6b
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Sorting Numbers |
+| Due Date: | 4/3/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (132).png>) |
