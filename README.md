@@ -128,3 +128,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%207b/pet/pet.py |
 | Notes: | ![alt text](<Screenshot (133).png>)  ![alt text](<Screenshot (134).png>)  |
+## Lab #8
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | Dictionaries |
+| Due Date: | 4/17/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | ![alt text](<Screenshot (139).png>) |
