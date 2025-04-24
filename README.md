@@ -137,3 +137,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%208/dict.py |
 | Notes: | ![alt text](<Screenshot (139).png>) |
+## Lab #9
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | fileio |
+| Due Date: | 4/24/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: |  |
