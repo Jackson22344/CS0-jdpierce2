@@ -146,3 +146,12 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%209/fileio.py |
 | Notes: |  |
+## Lab #10
+| Name | Value |
+| --- | --- |
+| Name: | Jackson Pierce |
+| Description: | fileio2 |
+| Due Date: | 4/24/25 |
+| Status: | Finished |
+| Location: |  |
+| Notes: |  |
