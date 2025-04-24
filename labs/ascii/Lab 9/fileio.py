@@ -50,7 +50,7 @@ def sortListInDescendingOrder(lstInts):
 
 def printList(printFile, lstInts):
     for i in lstInts:
-        # FIXME4            #Fixed#
+        # FIXME4                      #Fixed#
         # write each value one line at a time to file
         # handled by printFile object.
         printFile.write(str(i) + '\n')
@@ -70,13 +70,13 @@ def main():
     printFile.write("Numbers sorted in ascending order:\n")
     printList(printFile, integers)
 
-    # FIXME5
+    # FIXME5                             #Fixed#
     # Call sortListInDescendingOrder function
     
     sortListInDescendingOrder(integers)
 
 
-    # FIXME6
+    # FIXME6                                    #Fixed#
     # Write the sorted list in descending order to the output file
 
     printFile.write("Numbers sorted in descending order:\n")
