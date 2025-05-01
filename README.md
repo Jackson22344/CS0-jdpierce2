@@ -161,6 +161,6 @@ ________________________________________________________________________________
 | Name: | Jackson Pierce |
 | Description: | OOP |
 | Due Date: | 5/1/25 |
-| Status: | Almost |
-| Location: |  |
+| Status: | Finished |
+| Location: | https://github.com/Jackson22344/CS0-jdpierce2/blob/main/labs/ascii/Lab%2011/oop.py |
 | Notes: | ![alt text](<Screenshot (141).png>) |
